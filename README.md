@@ -1,27 +1,18 @@
-<div align="center">
-<img width="693" height="379" alt="github-banner" src="https://github.com/user-attachments/assets/1e37941c-4dbc-4662-9c8c-3bbe9971301d" />
+# Victoria
 
-<br></br>
-[![Discord](https://img.shields.io/badge/Discord-Join%20us-blue)](https://discord.gg/YKwjt5vuKr)
-[![Slack](https://img.shields.io/badge/Slack-Join%20us-4A154B?logo=slack&logoColor=white)](https://dub.sh/browserOS-slack)
-[![Twitter](https://img.shields.io/twitter/follow/browserOS_ai?style=social)](https://twitter.com/browseros_ai)
-[![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](LICENSE)
-[![Docs](https://img.shields.io/badge/Docs-docs.browseros.com-blue)](https://docs.browseros.com)
-<br></br>
-<a href="https://files.browseros.com/download/BrowserOS.dmg">
-  <img src="https://img.shields.io/badge/Download-macOS-black?style=flat&logo=apple&logoColor=white" alt="Download for macOS (beta)" />
-</a>
-<a href="https://files.browseros.com/download/BrowserOS_installer.exe">
-  <img src="https://img.shields.io/badge/Download-Windows-0078D4?style=flat&logo=windows&logoColor=white" alt="Download for Windows (beta)" />
-</a>
-<a href="https://files.browseros.com/download/BrowserOS.AppImage">
-  <img src="https://img.shields.io/badge/Download-Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Download for Linux (beta)" />
-</a>
-<a href="https://cdn.browseros.com/download/BrowserOS.deb">
-  <img src="https://img.shields.io/badge/Download-Debian-D70A53?style=flat&logo=debian&logoColor=white" alt="Download Debian package" />
-</a>
-<br />
-</div>
+**Victoria** is an Elcano-branded soft fork of [BrowserOS](https://github.com/browseros-ai/BrowserOS), an open-source Chromium fork that runs AI agents natively. Licensed under AGPL v3.
+
+- Homepage: <https://home.elcanotek.com>
+- Upstream: [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS)
+- Sync strategy: see [`UPSTREAM_SYNC.md`](UPSTREAM_SYNC.md)
+
+## Relationship to BrowserOS
+
+Victoria keeps the BrowserOS engine intact — every feature, agent tool, and MCP capability is inherited directly from upstream. Our fork changes only the user-visible surface: product name, icon, color palette, and default homepage. All other internals (directory names, patch paths, module identifiers) remain as `browseros` so that upstream commits merge with minimal conflicts.
+
+Credit for the browser engine, agent framework, and all listed features below belongs to the BrowserOS authors. Victoria is a rebrand, not a reimplementation.
+
+---
 
 BrowserOS is an open-source Chromium fork that runs AI agents natively. **The privacy-first alternative to ChatGPT Atlas, Perplexity Comet, and Dia.**
 

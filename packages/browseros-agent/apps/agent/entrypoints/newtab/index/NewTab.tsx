@@ -167,7 +167,7 @@ export const NewTab = () => {
     query: inputValue,
     selectedTabs,
   })
-  const searchPlaceholder = `Ask BrowserOS or search ${providerConfig.name}...`
+  const searchPlaceholder = `Ask Victoria or search ${providerConfig.name}...`
 
   const {
     isOpen,

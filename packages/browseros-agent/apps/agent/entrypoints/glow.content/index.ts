@@ -138,7 +138,7 @@ function startGlow(): void {
 }
 
 function fireConfetti(): void {
-  const colors = ['#fb6618', '#ff8a4c', '#fbbf24', '#34d399', '#60a5fa']
+  const colors = ['#7272ab', '#8686c4', '#9da7ef', '#34d399', '#60a5fa']
   const defaults = { colors, ticks: 200, gravity: 1.2, decay: 0.94 }
 
   confetti({

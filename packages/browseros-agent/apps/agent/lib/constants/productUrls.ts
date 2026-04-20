@@ -6,28 +6,29 @@ export const docsUrl = 'https://docs.browseros.com/'
 /**
  * @public
  */
-export const productWebUrl = 'https://browseros.com'
+export const productWebUrl = 'https://home.elcanotek.com'
 
 /**
  * @public
  */
-export const productRepositoryUrl = 'https://github.com/browseros-ai/BrowserOS'
+export const productRepositoryUrl =
+  'https://github.com/ElcanoTek/Victoria-Browser'
 
 /**
  * @public
  */
-export const githubOrgUrl = 'https://github.com/browseros-ai'
+export const githubOrgUrl = 'https://github.com/ElcanoTek'
 
 /**
  * @public
  */
-export const privacyPolicyUrl = 'https://browseros.com/privacy'
+export const privacyPolicyUrl = 'https://home.elcanotek.com/privacy'
 
 /**
  * @public
  */
 export const contributorsUrl =
-  'https://github.com/browseros-ai/BrowserOS/graphs/contributors'
+  'https://github.com/ElcanoTek/Victoria-Browser/graphs/contributors'
 
 /**
  * @public
@@ -47,7 +48,8 @@ export const productVideoUrl = 'https://youtu.be/J-lFhTP-7is'
 /**
  * @public
  */
-export const productRepositoryShortUrl = 'https://git.new/browseros'
+export const productRepositoryShortUrl =
+  'https://github.com/ElcanoTek/Victoria-Browser'
 
 /**
  * @public

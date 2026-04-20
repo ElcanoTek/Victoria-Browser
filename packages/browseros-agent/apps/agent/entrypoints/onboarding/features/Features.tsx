@@ -174,7 +174,7 @@ export const FeaturesPage: FC = () => {
                 >
                   Why Switch to{' '}
                   <span className="text-[var(--accent-orange)]">
-                    BrowserOS?
+                    Victoria?
                   </span>
                 </h1>
                 <p
@@ -275,7 +275,7 @@ export const FeaturesPage: FC = () => {
             <LinkIcon className="h-6 w-6 text-[var(--accent-orange)]" />
             <h2 className="font-bold text-3xl">
               Join our community and help us improve{' '}
-              <span className="text-[var(--accent-orange)]">BrowserOS!</span>
+              <span className="text-[var(--accent-orange)]">Victoria!</span>
             </h2>
           </div>
 
@@ -380,7 +380,7 @@ export const FeaturesPage: FC = () => {
             size="lg"
             className="bg-[var(--accent-orange)] text-white shadow-[var(--accent-orange)]/25 shadow-lg hover:bg-[var(--accent-orange)]/90"
           >
-            Start Using BrowserOS
+            Start Using Victoria
             <ArrowRight className="ml-2 h-4 w-4" />
           </Button>
         </div>
